@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "React T-Shirt",
+      "price": 1200,
+      "description": "Soft cotton t-shirt with React logo.",
+      "category": "Clothing",
+      "image": "https://unsplash.it/200/200?image=100"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript Mug",
+      "price": 300,
+      "description": "Ceramic coffee mug for JS lovers.",
+      "category": "Accessories",
+      "image": "https://unsplash.it/200/200?image=101"
+    },
+    {
+      "id": 3,
+      "name": "Keyboard Wrist Rest",
+      "price": 999,
+      "description": "Memory foam wrist rest for long coding sessions.",
+      "category": "Office",
+      "image": "https://unsplash.it/200/200?image=102"
+    },
+    {
+      "id": 4,
+      "name": "Vue Hoodie",
+      "price": 2500,
+      "description": "Comfy hoodie for frontend warriors.",
+      "category": "Clothing",
+      "image": "https://unsplash.it/200/200?image=103"
+    },
+    {
+      "id": 5,
+      "name": "Laptop Stand",
+      "price": 1999,
+      "description": "Aluminum stand with cooling support.",
+      "category": "Electronics",
+      "image": "https://unsplash.it/200/200?image=104"
+    },
+    {
+      "id": 6,
+      "name": "Sticker Pack",
+      "price": 300,
+      "description": "50+ coding stickers for laptops and phones.",
+      "category": "Accessories",
+      "image": "https://unsplash.it/200/200?image=121"
+    },
+    {
+      "id": 7,
+      "name": "Mouse Pad",
+      "price": 600,
+      "description": "Smooth surface with JavaScript-themed artwork.",
+      "category": "Office",
+      "image": "https://unsplash.it/200/200?image=106"
+    },
+    {
+      "id": 8,
+      "name": "Frontend Cap",
+      "price": 850,
+      "description": "Breathable cap for sunny dev days.",
+      "category": "Clothing",
+      "image": "https://unsplash.it/200/200?image=107"
+    },
+    {
+      "id": 9,
+      "name": "Notebook",
+      "price": 450,
+      "description": "Premium notebook for TypeScript sketches.",
+      "category": "Office",
+      "image": "https://unsplash.it/200/200?image=108"
+    },
+    {
+      "id": 10,
+      "name": "Backpack",
+      "price": 2200,
+      "description": "Durable backpack with laptop compartment.",
+      "category": "Accessories",
+      "image": "https://unsplash.it/200/200?image=109"
+    },
+    {
+      "id": 11,
+      "name": "CSS Art Book",
+      "price": 1500,
+      "description": "Creative CSS designs and techniques.",
+      "category": "Books",
+      "image": "https://unsplash.it/200/200?image=110"
+    },
+    {
+      "id": 12,
+      "name": "Stress Ball",
+      "price": 200,
+      "description": "Squeeze your API frustrations away.",
+      "category": "Accessories",
+      "image": "https://unsplash.it/200/200?image=111"
+    },
+    {
+      "id": 13,
+      "name": "Git Socks",
+      "price": 500,
+      "description": "Socks decorated with Git commands.",
+      "category": "Clothing",
+      "image": "https://unsplash.it/200/200?image=112"
+    },
+    {
+      "id": 14,
+      "name": "Wireless Mouse",
+      "price": 1800,
+      "description": "Ergonomic mouse for all-day comfort.",
+      "category": "Electronics",
+      "image": "https://unsplash.it/200/200?image=113"
+    },
+    {
+      "id": 15,
+      "name": "Rubber Duck",
+      "price": 250,
+      "description": "Classic debugging companion.",
+      "category": "Accessories",
+      "image": "https://unsplash.it/200/200?image=114"
+    },
+    {
+      "id": 16,
+      "name": "Docker Hoodie",
+      "price": 2400,
+      "description": "Cozy hoodie with Docker branding.",
+      "category": "Clothing",
+      "image": "https://unsplash.it/200/200?image=115"
+    },
+    {
+      "id": 17,
+      "name": "Mechanical Keyboard",
+      "price": 3500,
+      "description": "RGB mechanical keyboard for devs.",
+      "category": "Electronics",
+      "image": "https://unsplash.it/200/200?image=116"
+    },
+    {
+      "id": 18,
+      "name": "Algorithm Puzzle Set",
+      "price": 800,
+      "description": "Fun puzzle challenges to hone logic.",
+      "category": "Toys",
+      "image": "https://unsplash.it/200/200?image=117"
+    },
+    {
+      "id": 19,
+      "name": "Developer Tea Set",
+      "price": 1200,
+      "description": "Tea blends crafted for coders.",
+      "category": "Food",
+      "image": "https://unsplash.it/200/200?image=118"
+    },
+    {
+      "id": 20,
+      "name": "Code Wall Art",
+      "price": 1800,
+      "description": "Minimalist decor for tech lovers.",
+      "category": "Home",
+      "image": "https://unsplash.it/200/200?image=119"
+    }
+  ]
+}
