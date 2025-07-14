@@ -4,7 +4,7 @@ import useProductsApi from "../components/useProductsApi";
 import CartModal from "../components/CartModal";
 import WishlistF from "../components/WishlistF";
 export default function Home({ user, showCartOnLoad = false }) {
-  const { products, error, loading } = useProductsApi("http://localhost:8000/products");
+  const { products, error, loading } = useProductsApi("https://ecommerce-cart-with-usestate-8c3c.vercel.app/api/products");
   const [cartItems, setCartItems] = useState([]);
   const [showCart, setShowCart] = useState(showCartOnLoad);
   const [wishlist, setWishlist] = useState([]);
